@@ -1,6 +1,6 @@
 import {
   pgTable, text, timestamp, uuid, numeric,
-  boolean, jsonb, integer, pgEnum
+  boolean, jsonb, pgEnum
 } from "drizzle-orm/pg-core";
 
 // ─── Enums ────────────────────────────────────────────────────────────────────
